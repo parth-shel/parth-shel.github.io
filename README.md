@@ -1,2 +1,2 @@
-# parthshel.com
-source code for my website
+# parthshel
+source code for parthshel.com
